@@ -1,9 +1,9 @@
 
 
 
-SPRINT3
+##SPRINT3
 
-User story (1):
+####User story (1):
 Use an existing RTOS project to write a simple program with the following requirements:
 AGILE_REQ1:
 < 4 Tasks, A, B, C, D >
