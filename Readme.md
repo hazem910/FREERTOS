@@ -1,7 +1,7 @@
 
 
 
-SPRINT3
+SPRINT3 
 
 User story (1):
 
